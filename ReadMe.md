@@ -4,6 +4,9 @@
 
 ## Challenges
 
+1. encoding
+2. Decoding
+3. **Hashing** is used to verify if files are the same as other files.
 
 Hash it, encode it, encrypt it with these differernt forrms. 
 
