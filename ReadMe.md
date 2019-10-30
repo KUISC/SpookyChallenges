@@ -20,7 +20,7 @@ Hash it, encode it, encrypt.
 
 ## Contributors
 
-  1. Thomas atkins [github.com/Nova38]
+  1. Thomas atkins github.com/Nova38
 
 ## Sources
 
