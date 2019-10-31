@@ -1,7 +1,5 @@
 # Welcome to Spooky Land
 
-## Instructions
-
 ## Challenges
 
 1. **Hashing** is used to verify if files are the same as other files. One major use of this is to verify if a file that has been downloaded from the internet had either been intentionally modified to include malicious content or to check if it was corrupted in transit. Your task is to verify which of the copies of Frankensteins are unaltered and which have been modified.
